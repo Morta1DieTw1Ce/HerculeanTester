@@ -9,7 +9,7 @@ Version 1.0 - September 2023
 
 This license is granted to you by Abhinav Prasad, the developer of the HerculeanTester brute force Tool HerculeanTester. By using the Tool, Licensee agrees to the following terms and conditions:
 
-Usage Restrictions: Licensee is granted the right to use the Tool for legitimate purposes, including network stress testing and performance evaluation. Licensee shall not use the Tool for any malicious, illegal, or unethical activities.
+Usage Restrictions: Licensee is granted the right to use the Tool for legitimate purposes, including website login security and performance evaluation. Licensee shall not use the Tool for any malicious, illegal, or unethical activities.
 
 No Commercial Use: Licensee shall not sell, sublicense, or otherwise commercialize the Tool. This License does not grant Licensee the right to advertise, distribute, or offer the Tool as a commercial product or service.
 
