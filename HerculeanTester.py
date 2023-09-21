@@ -36,6 +36,8 @@ def cracking(password):
 
         if response.status_code == 200:
             print(f'{green}[*]Successful login with password: {password} and username {username}{normal}')
+        elif response.status_code == 403:
+         	  print(f'{red}[*]Unsuccessful login with password: {password}{normal}')
         else:
             print(f'{red}[*]Unsuccessful login with password: {password}{normal}')
     except Exception as e:
