@@ -27,4 +27,5 @@ Entire Agreement: This License constitutes the entire agreement between Licensee
 
 By using the Tool, Licensee agrees to be bound by the terms of this License.
 
-Abhinav Prasad Email: pycodeinsights@gmail.com
+Abhinav Prasad Email: 
+Morta1DieTw1Ce@gmail.com
